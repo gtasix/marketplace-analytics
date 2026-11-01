@@ -1,0 +1,7 @@
+.env
+data/*
+!data/.gitkeep
+.DS_Store
+.vscode/
+.redash_db_created
+_to_delete_scripts/
